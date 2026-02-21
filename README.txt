@@ -1,9 +1,6 @@
 Michael Randazzo, May 6th 2025
-Phase 3
 
 This folder consists of two files, an SQL file used for creation of a database containing information about ancient Mesopotamia, and an application for interacting with said database.
-
-MesopotamiaDB.py is not nearly as well-commented as I would like, but hopefully my explanations during the ZOOM meeting with my TAs will be sufficient
 
 To properly deploy the application, follow these steps:
 
@@ -86,5 +83,6 @@ To properly deploy the application, follow these steps:
 39. Type 4 to end the program. If you want to drop the schema, type DROP. However, if you want to look at the schema for insertion successes, type EXIT instead.
 
 40. (OPTIONAL) If you didn't drop the schema, execute any of the lines 209 through 214. These show various tables related to deities and can be used for verifying that insertions in the insert deity function were done properly.
+
 
 Note: test.txt does not drop the schema

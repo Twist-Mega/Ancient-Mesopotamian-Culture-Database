@@ -1,0 +1,60 @@
+CUSTOM
+127.0.0.1
+root
+4816173
+1
+Sumerian
+2
+YES
+Akkadian
+1
+NO
+2
+Anat
+Major goddess from Ugarit, later seen in Ancient Egypt.
+John Doe
+YES
+Love
+YES
+War
+NO
+YES
+Shaushka
+YES
+Inanna
+NO
+YES
+Ugarit
+NO
+NO
+2
+Teshub
+Hurrian storm god.
+Jane Doe
+YES
+Storm god
+NO
+YES
+Marduk
+YES
+Tarhunna
+NO
+YES
+Anatolia
+YES
+Kizzuwatna
+NO
+YES
+U+1202D
+1
+NO
+3
+DEITY
+6
+1
+AUTHOR
+2
+2
+EXIT
+4
+EXIT
